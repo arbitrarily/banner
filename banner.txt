@@ -1,0 +1,11 @@
+/*!
+ * Theme Name: ####
+ * Theme URI:
+ * Description: Wordpress Theme, Designed by ODYSIA
+ * Version: 1.0.1
+ * Author: ODYSIA
+ * Author URI: http://odysia.com
+ *
+ * License: Attribution-NonCommercial-NoDerivatives 4.0 International
+ * License URI: http://creativecommons.org/licenses/by-nc-nd/4.0/
+*/
