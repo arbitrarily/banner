@@ -1,5 +1,5 @@
 /*!
- * Theme Name: ####
+ * Theme Name: #########
  * Theme URI:
  * Description: Wordpress Theme designed by Marko Bajlovic & Aaron Baker
  * Version: 1.0.2
